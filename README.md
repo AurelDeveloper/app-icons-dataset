@@ -28,7 +28,7 @@ class macOSIconGallerySpider(scrapy.Spider):
 
     custom_settings = {
         'FEED_FORMAT': 'json',
-        'FEED_URI': 'macos_icon_gallery_build.json'
+        'FEED_URI': 'macosicongallery_data.json'
     }
 
     def start_requests(self):
