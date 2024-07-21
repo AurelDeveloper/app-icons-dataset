@@ -18,6 +18,8 @@ cd app-icons-dataset
 
 ## Python 🐍 Scraper
 
+This is the spider code in my scrapy project, to fetch the data from the macos icon gallery site.
+
 ```python
 import scrapy
 
