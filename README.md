@@ -10,11 +10,11 @@ The dataset includes:
 
 ## Setup
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/AurelDeveloper/app-icons-dataset.git
-    cd app-icons-dataset
-    ```
+Clone the repository:
+```bash
+git clone https://github.com/AurelDeveloper/app-icons-dataset.git
+cd app-icons-dataset
+```
 
 ## Python 🐍 Scraper
 
